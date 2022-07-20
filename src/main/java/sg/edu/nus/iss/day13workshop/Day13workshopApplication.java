@@ -37,13 +37,4 @@ public class Day13workshopApplication implements ApplicationRunner{
 			dbSvc.setDataDir(new File("./data"));
 		}
 	}
-
-	public boolean save(){
-
-	}
-
-	public void read(String fileId){
-		
-	}
-
 }
